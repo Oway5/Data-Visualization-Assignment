@@ -1,0 +1,2 @@
+You can find the api spec for `car parking data` at this [link](https://data.gov.sg/datasets?page=1&coverage=&sort=downloadsCount&sidebar=true&resultId=d_ca933a644e55d34fe21f28b8052fac63#tag/default/GET/transport/carpark-availability)
+You can find the dataset for `registered businesses` as a csv at this [link](https://data.gov.sg/datasets?page=1&coverage=&sort=downloadsCount&sidebar=true&resultId=d_3f960c10fed6145404ca7b821f263b87#tag/default/GET/transport/carpark-availability)
